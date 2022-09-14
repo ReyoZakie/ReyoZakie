@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ReyoZakie
+- 👀 I’m interested in learning how to code
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on c
+- 📫 How to reach me Instagram:s_aldhahrah
