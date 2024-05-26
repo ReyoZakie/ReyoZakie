@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ReyoZakie
+- 👋 Hi, I’m @Sultan
 - 👀 I’m interested in learning how to code
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on c
